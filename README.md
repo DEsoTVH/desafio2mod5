@@ -1,2 +1,14 @@
-# desafio2mod5
-Desafio N2 Modulo 5
+# React + Vite
+
+## Install
+
+```bash
+npm install
+```
+
+## Run
+
+```bash
+npm run dev
+```
+# DESAFIO-CONTEXT
