@@ -11,8 +11,8 @@ const App = () => {
       <Provider>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/favorites" element={<Favorites />} />
+          <Route path="/desafio2mod5/" element={<Home />} />
+          <Route path="/desafio2mod5/favorites" element={<Favorites />} />
         </Routes>
       </Provider>
     </div>
